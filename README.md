@@ -1,2 +1,20 @@
-# Non-Ischemic-Heart-Disease-Classification-in-Younger-Adults
-Young adults rarely develop ischemic heart disease (MI), so this project focuses entirely on non-ischemic cardiac disorders. The PTB-XL dataset provides rich ECG metadata which is used to train a machine learning model that predicts the type of non-ischemic heart condition based on demographic and ECG acquisition metadata.  
+🫀 Non-Ischemic Heart Disease Classification in Younger Adults Using Machine Learning
+
+This project uses the PTB-XL ECG dataset (metadata only) to classify non-ischemic heart disease types in younger adults (<45 years old).
+The goal is to distinguish between:
+
+Structural Heart Diseases
+
+Cardiomyopathy (CM)
+
+Hypertrophy (HYP)
+
+and
+
+Non-Structural Heart Diseases
+
+Conduction Disorders (CD)
+
+Non-Diagnostic Patterns (NDT)
+
+using machine learning techniques.
